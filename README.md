@@ -2,7 +2,7 @@
 
 A comprehensive collection of machine learning models implemented from scratch and using scikit-learn. Each model is implemented in a Jupyter notebook with detailed explanations, code examples, and visualizations.
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Supervised Learning Models](#supervised-learning-models)
 - [Unsupervised Learning Models](#unsupervised-learning-models)
